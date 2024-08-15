@@ -12,7 +12,8 @@ A simple and elegant wallpaper app built using Flutter and powered by the Pexels
 
 ## Screenshots 📸
 
-
+![Screenshot_2024_0815_221529](https://github.com/user-attachments/assets/08ce184a-aadf-45d8-a315-594f8b2628af)
+![Screenshot_2024_0815_221549](https://github.com/user-attachments/assets/71ed89fb-d2d6-41dc-8ea2-4ce62daa7da4)
 
 ## Installation 🚀
 
