@@ -12,7 +12,7 @@ A simple and elegant wallpaper app built using Flutter and powered by the Pexels
 
 ## Screenshots 📸
 
-*(Add some screenshots of your app here)*
+
 
 ## Installation 🚀
 
